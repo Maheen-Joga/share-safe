@@ -16,6 +16,9 @@ dependencies = []
 [project.optional-dependencies]
 dev = ["pytest>=8"]
 
+[project.scripts]
+share-safe = "share_safe.cli:main"
+
 [tool.setuptools]
 packages = ["share_safe"]
 

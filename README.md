@@ -7,7 +7,7 @@ passwords, emails, IPs and more become consistent placeholders. Pure Python, no 
 
 - [x] Detectors for secrets, personal data and infrastructure
 - [x] Consistent placeholders, restore, random-string safety net
-- [ ] Command line: redact, check, restore, kinds
+- [x] Command line: redact, check, restore, kinds
 - [ ] Claude skill (SKILL.md) and a sample log
 - [ ] Full documentation and demo
 
